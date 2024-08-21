@@ -1,0 +1,11 @@
+phidata 
+openai 
+duckdb
+yfinance
+httpx
+sqlalchemy 
+pgvector
+psycopg
+psycopg-binary 
+psycopg2-binary 
+pypdf 
